@@ -1,7 +1,7 @@
 # LiDAR-camera calibration with variance cost
 
 ## Programs
-+ Cariblation with variance cost
++ Calibration with variance cost
 + Frame-by-frame motion estimation (Pre-processing)
 + Fusion Bundle Adjustment (Pre-processing)
 
