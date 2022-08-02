@@ -19,6 +19,8 @@ We tried in Windows10
 - cvl_toolkit (https://github.com/cln515/cvl_toolkit.git)
 - camera_simulator (https://github.com/cln515/camera_simulator.git)
 
+Copy or move "opengl" folder to the folder where executable file locates.
+
 ## run test
 
 - download sample data (https://www.cvl.iis.u-tokyo.ac.jp/~ishikawa/data/calib_vc.zip)
