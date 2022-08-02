@@ -7,7 +7,7 @@
 
 ## Dependency
 
-We tried in Windows10
+We tested in Windows10
 
 - Eigen3 (https://eigen.tuxfamily.org/index.php?title=Main_Page)
 - opengv (https://laurentkneip.github.io/opengv/)
