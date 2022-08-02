@@ -21,7 +21,7 @@ We tried in Windows10
 
 ## run test
 
-- download sample data ()
+- download sample data (https://www.cvl.iis.u-tokyo.ac.jp/~ishikawa/data/calib_vc.zip)
 - replace the paths (<path/to/input> or <path/to/output>) in json files to your environments
 - run frame-by-frame motion estimation with fbf_in.json as an argument (```$ framebyframe_motionest.exe fbf_in.json```)
 - run FusionBA with ba_in.json as an argument (```$ fusionba.exe ba_in.json```)
